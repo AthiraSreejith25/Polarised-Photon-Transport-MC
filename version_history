@@ -1,0 +1,35 @@
+#history
+
+1.4
+timescale was corrected
+bin making was corrected
+bin dumping was corrected
+runtime was added
+
+
+1.5 
+removed comments (both words and unnecessary code) making 1.4 the most verbose and rough version.
+data was pickled
+output was made to be stored in a new folder with name = current time
+params were corrected
+
+1.5 was split to .sim and .plot
+
+2.0.plot
+This version only has intensity plots and not the mueller matrix elements.
+
+2.1.sim
+
+
+2.1.plot
+
+
+2.1.anim was made to animate photons traveling in z-direction and scattering in y-direction
+
+
+#target
+
+3.1 
+To optimise phase function sampling
+To optimise matrix algebra
+To implement multi-threading
