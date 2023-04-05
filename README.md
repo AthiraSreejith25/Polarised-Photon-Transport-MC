@@ -11,4 +11,4 @@ polarised_2.1.anim.py is the animation code\
 
 polarised_2.1.mueller_enhanced.py and polarised_2.1.plot.py are the plotting codes
 
-Collaborator: https://github.com/Sourav-Suresh/
+Collaborator: [Sourav Suresh](https://github.com/Sourav-Suresh/)
