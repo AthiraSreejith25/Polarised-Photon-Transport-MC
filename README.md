@@ -10,3 +10,5 @@ polarised_2.1.anim.py is the animation code\
 2d_isophotscat.py is the 2D scattering animation code
 
 polarised_2.1.mueller_enhanced.py and polarised_2.1.plot.py are the plotting codes
+
+Collaborator: https://github.com/Sourav-Suresh/
