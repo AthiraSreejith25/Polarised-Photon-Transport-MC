@@ -1,0 +1,12 @@
+Photon trajectory animator -- shows animation of photons in a scattering and absorbing medium.
+
+Program executed at 23:01:18 15/06/2021
+
+Number of photons = 500
+Absorption coefficient = 0.8
+Scattering coefficient = 0.92
+Refractive index = 1.33
+Anisotropy = 0
+
+Simulation runtime: 0.19733216700115008
+Animation runtime: 262.3322385020001
